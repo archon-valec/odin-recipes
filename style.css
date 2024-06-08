@@ -15,6 +15,10 @@ body {
 }
 
 .links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
     max-width: fit-content;
     border-color: white;
     border: 10px;
